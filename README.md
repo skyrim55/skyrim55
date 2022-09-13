@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/riteshpradhan55" target="blank"><img src="https://img.shields.io/twitter/follow/riteshpradhan55?logo=twitter&style=for-the-badge" alt="riteshpradhan55" /></a> </p>
 
-- 🔭 I’m currently working on **Esp8266 deautherV3**
+- 🔭 I’m currently working on **Esp8266 deautherV3** Created by [spacehuhn](https://github.com/SpacehuhnTech/esp8266_deauther/tree/v3)
 
 - 🌱 I’m currently learning **Python, Esp Programming, KICAD, AutoDesk**
 
-- 👯 I’m looking to collaborate on **Esp8266 deautherV3**
+- 👯 I’m looking to collaborate on **Esp8266 deautherV3** Created by [spacehuhn](https://github.com/SpacehuhnTech/esp8266_deauther/tree/v3)
 
-- 🤝 I’m looking for help with **Adding display on Esp8266 deautherV3**
+- 🤝 I’m looking for help with **Adding display on Esp8266 deautherV3** Created by [spacehuhn](https://github.com/SpacehuhnTech/esp8266_deauther/tree/v3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
